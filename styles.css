@@ -1,0 +1,94 @@
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
+}
+
+section {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+
+ /* código omitido */
+
+section {
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}   
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+
+    h1 { 
+        font-size: 40px;
+    }
+    /* código omitido */
+
+img {
+    height: 200px;
+}
+/* código omitido */
+
+.categoria-videos {
+    display: flex;
+}
+
+/* código omitido */}
+/* código omitido */
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+}
+
+/* código omitido */
+/* código omitido */
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+/* código omitido */
+/* código omitido */
+
+/* código omitido */
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
+section {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* código omitido */
+body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+}
+
+/* código escondido */
